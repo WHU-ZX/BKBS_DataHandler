@@ -1,0 +1,6 @@
+{
+  "BASE_DIR": "E:/py-workspace/BKBS_DataHandler/",
+  "IN_PATH": "E:/py-workspace/BKBS_DataHandler/original_datas/dataset_ubicomp2013_checkins.txt",
+  "TRAIN_OUT_PATH": "foursquare_train.csv",
+  "TEST_OUT_PATH": "foursquare_test.csv"
+}
