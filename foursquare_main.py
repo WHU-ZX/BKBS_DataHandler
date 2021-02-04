@@ -2,6 +2,9 @@ import json
 import numpy as np
 from data_handler.foursquare import FourSquareHandler
 
+'''
+    程序功能，根据Foursquare的原始数据集产生sql-rank需要的训练集和测试集
+'''
 
 if __name__=='__main__':
     with open('./config.json', 'r') as load_f:
